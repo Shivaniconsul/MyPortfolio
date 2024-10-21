@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.db38e1ce.css",
+    "main.js": "/MyPortfolio/static/js/main.6fb8fa3c.js",
+    "static/js/453.a338c464.chunk.js": "/MyPortfolio/static/js/453.a338c464.chunk.js",
+    "static/media/helvetica-neu.ttf": "/MyPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/MyPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/MyPortfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/MyPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/MyPortfolio/index.html",
+    "main.db38e1ce.css.map": "/MyPortfolio/static/css/main.db38e1ce.css.map",
+    "main.6fb8fa3c.js.map": "/MyPortfolio/static/js/main.6fb8fa3c.js.map",
+    "453.a338c464.chunk.js.map": "/MyPortfolio/static/js/453.a338c464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db38e1ce.css",
+    "static/js/main.6fb8fa3c.js"
+  ]
+}
